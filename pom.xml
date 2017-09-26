@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
     <name>AutoValue JavaBean extension</name>
     <description>AutoValue JavaBean extension</description>
-
+    <url>https://github.com/Graylog2/auto-value-javabean</url>
 
     <licenses>
         <license>
